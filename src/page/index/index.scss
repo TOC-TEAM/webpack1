@@ -1,0 +1,8 @@
+$bgColor: red !default;
+#root{
+    background: $bgColor;
+    display: flex;
+}
+#root500{
+    background: blue;
+}
